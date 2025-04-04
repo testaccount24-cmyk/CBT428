@@ -1,0 +1,10 @@
+2025-04-04 09:34:08.879299 - Received CBT.V508.FILE428.PDS from FILE428.XMI 
+2025-04-04 09:34:08.880135 - Found $$$#DATE.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/$$$#DATE
+2025-04-04 09:34:08.880294 - Found $$DOC.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/$$DOC
+2025-04-04 09:34:08.880435 - Found @FILE428.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/@FILE428
+2025-04-04 09:34:08.880592 - Found ASM.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/ASM
+2025-04-04 09:34:08.880728 - Found EXEC.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/EXEC
+2025-04-04 09:34:08.880863 - Found HELP.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/HELP
+2025-04-04 09:34:08.880983 - Found LINK.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/LINK
+2025-04-04 09:34:08.881104 - Found MACROS.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/MACROS
+2025-04-04 09:34:08.881222 - Found PANELS.txt (text/plain) in CBT.V508.FILE428.PDS, moved to PDS/PANELS
